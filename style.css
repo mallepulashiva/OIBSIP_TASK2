@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    background-color: #050505;
+    min-height: 100vh;
+    border: 10px solid #8c0f0f;
+  }
+  
+  .content {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .top_section {
+    margin-top: 100px;
+    display: flex;
+  }
+  .top_section h1 {
+    font-size: 110px;
+    font-weight: bold;
+    color: #911d1d;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  .image_container {
+    overflow: hidden;
+  }
+  
+  .image_container,
+  img {
+    width: 1000px;
+    height: 500px;
+  }
+  .about_section {
+    margin-top: 50px;
+  }
+  .about_section h2 {
+    font-size: 70px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: #d8e2db;
+  }
+  .achievements_section {
+    margin-top: 50px;
+  }
+  .about_section p {
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    text-align: justify;
+    color:#5690a8;
+  }
+  .achievements_section h3 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    color:#d14eb3;
+  }
+  .achievements_section ul {
+    margin-left: 50px;
+  }
+  .achievements_section li {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color:#d1a54e;
+  }
+  .networth_section {
+    margin-top: 50px;
+  }
+  .networth_section h4 {
+    font-size: 50px;
+    margin-bottom: 50px;
+    color:#d1a54e;
+  }
+  .networth_section p {
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    text-align: justify;
+    color:#d14e64;
+  }
+  
+  footer {
+    margin: 50px 0;
+  }
+  footer p {
+    text-align: center;
+    color:aquamarine;
+  }
+  footer p {
+    text-align: center;
+    color:aquamarine;
+  }
